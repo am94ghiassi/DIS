@@ -1,0 +1,7 @@
+---
+layout: page
+title: Distributed Intelligent System Lab
+subtitle: Who, What and How to enhance robustness of distributed systems
+---
+
+##news
