@@ -12,6 +12,11 @@ subtitle: Who we are
 	Associate Professor Lydia Y. Chen  
 	[Personal website](https://www.lydiaychen.com/)
 	
+<table><tr>
+<td> <img src="https://octodex.github.com/images/yaktocat.png" style="width: 250px;"/> </td>
+<td> Associate Professor Lydia Y. Chen /td>
+</tr></table>
+	
 
 
 ## Postdocs
