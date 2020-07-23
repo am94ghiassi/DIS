@@ -6,9 +6,9 @@ subtitle: Who we are
 
 ## Lead
 
-Associate Professor Lydia Y. Chen
+
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Lydia"
-	title="Associate Professor" width="150" height="100" />
+	title="Associate Professor" width="150" height="100" /> Associate Professor Lydia Y. Chen
 
 
 ## Postdocs
