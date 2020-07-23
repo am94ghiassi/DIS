@@ -4,8 +4,9 @@ title: About us
 subtitle: Who we are
 ---
 
-## Lydia Chen
+## Lead
 
+Associate Professor Lydia Y. Chen
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Lydia"
 	title="Associate Professor" width="150" height="100" />
 
