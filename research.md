@@ -1,5 +1,4 @@
-
 ---
 layout: page
-title: Research
+title: Join us
 ---
