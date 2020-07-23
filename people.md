@@ -8,7 +8,10 @@ subtitle: Who we are
 
 
 <img src="https://octodex.github.com/images/yaktocat.png" alt="Lydia"
-	title="Associate Professor" width="150" height="100" /> Associate Professor Lydia Y. Chen
+	title="Associate Professor" width="150" height="100" /> 
+	Associate Professor Lydia Y. Chen
+	[Personal website](https://www.lydiaychen.com/)
+	
 
 
 ## Postdocs
