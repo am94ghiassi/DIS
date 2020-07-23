@@ -14,7 +14,7 @@ subtitle: Who we are
 	
 <table><tr>
 <td> <img src="https://octodex.github.com/images/yaktocat.png" title="Associate Professor" width="150" height="100"/> </td>
-<td> Associate Professor Lydia Y. Chen  <br> Personal website</td>
+<td> Associate Professor Lydia Y. Chen  <br> <a href="https://lydiaychen.com/">Personal Website</a></td>
 </tr></table>
 	
 
