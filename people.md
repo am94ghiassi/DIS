@@ -13,7 +13,7 @@ subtitle: Who we are
 	[Personal website](https://www.lydiaychen.com/)
 	
 <table><tr>
-<td> <img src="https://octodex.github.com/images/yaktocat.png" style="width: 50px;"/> </td>
+<td> <img src="https://octodex.github.com/images/yaktocat.png" style="width: 150;"/> </td>
 <td> Associate Professor Lydia Y. Chen  <br> Personal website</td>
 </tr></table>
 	
