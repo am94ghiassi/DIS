@@ -4,10 +4,11 @@ title: About us
 subtitle: Who we are
 ---
 
-## Professor
+## Lydia Chen
 
+<img src="https://octodex.github.com/images/yaktocat.png" alt="Lydia"
+	title="Associate Professor" width="150" height="100" />
 
-![Lydia Y Chen](https://octodex.github.com/images/yaktocat.png)
 
 ## Postdocs
 
