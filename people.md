@@ -7,10 +7,6 @@ subtitle: Who we are
 ## Lead
 
 
-<img src="https://octodex.github.com/images/yaktocat.png" alt="Lydia"
-	title="Associate Professor" width="150" height="100" /> 
-	Associate Professor Lydia Y. Chen  
-	[Personal website](https://www.lydiaychen.com/)
 	
 <table><tr>
 <td> <img src="https://octodex.github.com/images/yaktocat.png" title="Associate Professor" width="150" height="100"/> </td>
