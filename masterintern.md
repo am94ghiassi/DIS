@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: page
 title: Master Thesis and Internship
 ---
 
