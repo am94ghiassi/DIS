@@ -15,7 +15,7 @@ subtitle: Who we are
 <pre>
 Associate Professor
 <a href="https://lydiaychen.com/">Lydia Y. Chen</a>
-LydiaYChen@ieee.org
+lydiaychen@ieee.org
 <!-- Lydia Y. Chen
 <a href="https://lydiaychen.com/">Personal Website</a> -->
 </pre>
