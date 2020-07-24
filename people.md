@@ -18,7 +18,7 @@ Associate Professor Lydia Y. Chen  <br> <a href="https://lydiaychen.com/">Person
 <!-- <table style="border-collapse: collapse; border: none;"> -->
 <table>
 <tr>
-<td style="border: none;"> <img src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="phd" width="100" height="150"/>  <div class="container">
+<td> <img src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="phd" width="100" height="150"/>  <div class="container">
 	<a href="https://lydiaychen.com/">Lydia Y. Chen</a>
 	<p>Associate Professor</p>
   <p>Y.Chen-10@tudelft.nl</p> </td> </tr> </table>
