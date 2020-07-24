@@ -13,4 +13,4 @@ Do you want to conduct research at the intersection of theory and practice and b
 
 ## To apply
 
-To apply for a thesis, please contact Prof. Lydia Y. Chen
+To apply for a thesis, please contact [Prof. Lydia Y. Chen](lydiaychen@ieee.org)
