@@ -1,10 +1,10 @@
 # --- Basic options --- #
 
 # Name of website
-title: Distributed Machine Learning System Lab
+title: DIS Lab  TU Delft
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Distributed System Group TU Delft
 
 # Your name to show in the footer
 author: Lydia Y. Chen
@@ -12,7 +12,7 @@ author: Lydia Y. Chen
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  MScThesis: "masterintern"
+  Master: "masterintern"
   People: "people"
   Publication: "publication"
   Research: "research"
