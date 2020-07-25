@@ -3,9 +3,10 @@ layout: page
 title: Research
 ---
 
-
-Our research spams in the following areas. 
 <span style="color:red">**Page under construction**</span>
+
+Our research themes spam in the following areas. 
+
 
 
 ## Robust and Adversarial Machine Learning 
