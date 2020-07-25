@@ -14,7 +14,7 @@ Our research spams in the following areas.
 
 
 ## Optimization for Machine Learning Clustering 
-**Research questions**: Training deep models consumers tremendous computing time and resource; however tuning the hyperparameter deep models is multiple fold higher. How to achieve efficient and accurate tuning and training of DNN is highly wanted?
+**Research questions**: Training deep models consumers tremendous computing time and resource; however tuning the hyperparameter deep models is multiple fold higher. How to achieve efficient and accurate tuning and training of DNN is highly wanted. 
 
 ## Deep Models Inference on Edge Devices
 **Research questions**: How to choose a suitable train models from the plethoral of trained one and deploy at the edge devices? How to optimize the performance of deep models on the edge edvices? Can toay's edge devices efficiently execute multiple DNN at the same time, e,.g., extracting information of people, aged and gender from images?
