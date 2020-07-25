@@ -89,5 +89,14 @@ T.Younesian@tudelft.nl
 </tr></table>
 
 ## Master and Bachelor Students
+<table>
+<tr>
+<td style="border: none;">
+<pre>
 Shikhar Dev and Bart Cox
+</pre>
+</td>
+</tr>
+</table>
+
 ## Former Students and Interns
