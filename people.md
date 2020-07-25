@@ -93,8 +93,10 @@ T.Younesian@tudelft.nl
 <tr>
 <td style="border: none;">
 <pre>
-Shikhar Dev and Bart Cox
-Jeroen Galjaard and Hans Brower
+Shikhar Dev, Thesis: multi-fedility hyper-paramater tuning for machine learning algorithms 
+Bart Cox, Thesis: efficient multiple DNN inference on Edge Devices
+Jeroen Galjaard, Project: scheduling algorithm for mutltiple DNN inference on edges
+Hans Brower: pipetuning hyper- and system paraemters for DNN clusters
 </pre>
 </td>
 </tr>
