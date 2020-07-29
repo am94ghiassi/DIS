@@ -59,7 +59,7 @@ lydiaychen@ieee.org
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/zhao.jpg?raw=true" title="phd" width="100" height="150"/>
 <pre>
-<a href="https://www.linkedin.com/in/zilong-zhao/">Zilong ZHAO</a>
+<a href="https://www.linkedin.com/in/zilong-zhao/">Zilong Zhao</a>
 zilong.zhao@gipsa-lab.fr
 </pre>
 </td>
@@ -88,12 +88,32 @@ T.Younesian@tudelft.nl
 </td>
 </tr></table>
 
+<table>
+<tr>
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hao.jpg?raw=true" title="phd" width="100" height="150"/>
+<pre>
+Hao Li
+H.Li-9@tudelft.nl
+</pre>
+</td>
+
+
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="150"/>
+<pre>
+Jiyue Huang
+T.Younesian@tudelft.nl
+</pre>
+</td>
+</tr></table>
+
 ## Master and Bachelor Students
 <table>
 <tr>
 <td style="border: none;">
 <pre>
-Shikhar Dev, Thesis: multi-fidelity hyper-parameter tuning for machine learning algorithms 
+Shikhar Dev, Thesis: multi-fidelity hyper-parameter tuning for machine learning algorithms
 Bart Cox, Thesis: efficient multiple DNN inference on Edge Devices
 Jeroen Galjaard, Project: scheduling algorithm for multiple DNN inferences on edges
 Hans Brower, Project: pipetuning hyper- and system parameters for DNN clusters
