@@ -94,7 +94,7 @@ T.Younesian@tudelft.nl
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hao.jpg?raw=true" title="phd" width="100" height="150"/>
 <pre>
 Hao Li
-H.Li-9@tudelft.nl     
+H.Li-9@tudelft.nl   
 </pre>
 </td>
 
