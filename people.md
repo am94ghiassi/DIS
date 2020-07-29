@@ -94,16 +94,16 @@ T.Younesian@tudelft.nl
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hao.jpg?raw=true" title="phd" width="100" height="150"/>
 <pre>
 Hao Li
-H.Li-9@tudelft.nl
+H.Li-9@tudelft.nl     
 </pre>
 </td>
 
 
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpeg?raw=true" title="phd" width="100" height="150"/>
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="150"/>
 <pre>
 Jiyue Huang
-T.Younesian@tudelft.nl
+huangjiyue@pku.edu.cn
 </pre>
 </td>
 </tr></table>
