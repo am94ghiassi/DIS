@@ -115,7 +115,7 @@ huangjiyue@pku.edu.cn
 
 
 
-**Name**|**Master/Intern**|**Project**
+**Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
 Bart Cox|Master|Efficient multiple DNN inference on edge devices
 Shikhar Deve|Master| multi-fidelity hyper-parameter tuning for machine learning algorithms
