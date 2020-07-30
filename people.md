@@ -108,7 +108,7 @@ huangjiyue@pku.edu.cn
 </td>
 </tr></table>
 
-## Master and Bachelor Students
+## Master and Intern Students
 
 **Name**|**Master/Intern**|**Project**
 :-----|:-----|:-----
@@ -118,5 +118,3 @@ Jeroen Galjaard| Intern| Scheduling algorithms for multiple DNN inferences on ed
 Hans Brower| Intern| Pipetuning hyper- and system parameters for DNN clusters
 
 
-
-## Former Students and Interns
