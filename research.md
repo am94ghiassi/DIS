@@ -6,15 +6,16 @@ title: Research
 <span style="color:red">**We are still updating the content**</span>
 
 Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.
+- Robust and Adversarial Machine Learning(#Robust)
+- Tuning and Training Optimization(#Tune)
 
 
-
-## Robust and Adversarial Machine Learning 
+## Robust and Adversarial Machine Learning<a name="Robust"></a> 
 
 **Research questions**: Can today's deep neural networks handel noisy data sets, namely corrupted inputs and lables? How to design novel learning algorithioms to dstill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
 
 
-## Optimization for Machine Learning Clustering 
+## Optimization for Machine Learning Clustering<a name="Tune"></a> 
 **Research questions**: Training deep models consums tremendous computing time and resource; however tuning the hyperparameter of deep models is even multiple fold higher. Can one design efficient and accurate tuning framework for deep neural network such that the otpimal parameters can be found?
 
 ## Deep Models Inference on Edge Devices
