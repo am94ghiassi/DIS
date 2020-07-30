@@ -9,9 +9,9 @@ Our research themes spam in the following areas. We are interested in developing
 - [Robust and Adversarial Machine Learning](#Robust)
 - [Optimization of Tuning and Training ML Modles](#Tune)
 - [Deep Model Inferences on Edge Devices](#EdgeInf)
--[Federated Learning Systems](#Federated)
--[Tucker Tensor Decomposition](#Tucker)
--[Fair Information Maximization on Social Media](#FairIM)
+- [Federated Learning Systems](#Federated)
+- [Tucker Tensor Decomposition](#Tucker)
+- [Fair Information Maximization on Social Media](#FairIM)
 
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
