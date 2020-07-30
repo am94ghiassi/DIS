@@ -110,6 +110,7 @@ huangjiyue@pku.edu.cn
 
 ## Master and Intern Students
 
+
 **Name**|**Master/Intern**|**Project**
 :-----|:-----|:-----
 Bart Cox|Master|Efficient multiple DNN inference on edge devices
