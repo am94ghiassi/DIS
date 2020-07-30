@@ -109,23 +109,13 @@ huangjiyue@pku.edu.cn
 </tr></table>
 
 ## Master and Bachelor Students
-<table>
-<tr>
-<td style="border: none;">
-<pre>
-Shikhar Dev, Thesis: multi-fidelity hyper-parameter tuning for machine learning algorithms
-Bart Cox, Thesis: efficient multiple DNN inference on Edge Devices
-Jeroen Galjaard, Project: scheduling algorithm for multiple DNN inferences on edges
-Hans Brower, Project: pipetuning hyper- and system parameters for DNN clusters
-</pre>
-</td>
-</tr>
-</table>
 
 **Name**|**Master/Intern**|**Project**
 :-----|:-----|:-----
-Bart Cox|Master|Multi-DNN edge inferences
-Shikhar Deve|Master|Multi-fidelity hyper parameter tuning for ML 
+Bart Cox|Master|Efficient multiple DNN inference on edge devices
+Shikhar Deve|Master| multi-fidelity hyper-parameter tuning for machine learning algorithms
+Jeroen Galjaard| Intern| Scheduling algorithms for multiple DNN inferences on edges
+Hans Brower| Intern| Pipetuning hyper- and system parameters for DNN clusters
 
 
 
