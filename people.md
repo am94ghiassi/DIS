@@ -122,18 +122,6 @@ Hans Brower, Project: pipetuning hyper- and system parameters for DNN clusters
 </tr>
 </table>
 
-{| class="wikitable" style="text-align: center;"
-!style="background: rgba(189, 188, 188, 0.81);"|'''Name'''
-!style="background: rgba(189, 188, 188, 0.81);"|'''Master/Intern'''
-!style="background: rgba(189, 188, 188, 0.81);"|'''Project'''
-|-
-|Bart Cox
-|Master
-|Multi-DNN edge inferences
-|-
-|Shikhar Deve
-|Master
-|Multi-fidelity hyper parameter tuning for ML 
-|}
+
 
 ## Former Students and Interns
