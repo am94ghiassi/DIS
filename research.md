@@ -6,8 +6,8 @@ title: Research
 <span style="color:red">**We are still updating the content**</span>
 
 Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.
-- Robust and Adversarial Machine Learning(#Robust)
-- Tuning and Training Optimization(#Tune)
+- [Robust and Adversarial Machine Learning](#Robust)
+- [Tuning and Training Optimization](#Tune)
 
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
