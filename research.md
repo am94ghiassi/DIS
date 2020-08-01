@@ -5,7 +5,7 @@ title: Research
 
 <span style="color:red">**We are still updating the content**</span>
 
-Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.
+Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.(#top)
 - [Robust and Adversarial Machine Learning](#Robust)
 - [Optimization of Tuning and Training ML Models](#Tune)
 - [Deep Model Inferences on Edge Devices](#EdgeInf)
@@ -20,6 +20,7 @@ Our research themes spam in the following areas. We are interested in developing
 **Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to dstill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
 
  > We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
+ [Back to the list](#top)
 
 
 ## Optimization for Machine Learning Services and Clusters<a name="Tune"></a> 
