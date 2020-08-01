@@ -12,6 +12,8 @@ Do you want to conduct research at the intersection of theory and practice and b
 - [Fair and gender-aware learning](./research.md#FairIM)
 - [Performance modeling and optimization for large scale learning systems](./research.md#Tune)
 
+And, we also welcome students/interns to bring your own topics of interests.
+
 
 ## To apply
 
