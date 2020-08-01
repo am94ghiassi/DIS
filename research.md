@@ -16,7 +16,7 @@ Our research themes spam in the following areas. We are interested in developing
 
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
-
+-----
 **Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to dstill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
 
 We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
@@ -34,21 +34,25 @@ We are working on accelerating processing strategies that only execute critical 
 We are working on various scheduling and model selection algorithms to adaptively run multiple DNN on resource limited edge devices, in fulfilling various users’ requirements. 
 
 ## Synthetic Data Generator<a name="GAN"></a> 
+-----
 **Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary.
 
 We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
 ## Federated Learning Systems: Incentive and Backdoor<a name="Federated"></a> 
+-----
 **Research questions**: Federated learning framework preserves privacy by design as user data stays on devices. How to provide the incentives for users at the federated learning systems? How to value the contributed models from other users? Can we trust the models provided by other users?
 
 We are designing incentive mechanisms and defense strategies against backdoor attacks. 
 
 ## Tucker Tensor Decomposition (STD)<a name="Tucker"></a> 
+-----
 **Research questions**: Sparse Tucker decomposition is widely used in low-rank representation learning for sparse big data analysis. Due to the entanglement problem  of  core  tensor  and  factor  matrices,  the  computational process  for  STD  faces  the challenge of   intermediate  variables  explosion. How to design an efficient optimization algorithm for STD without degrading approximation accuracy?
 
 We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.
 
 ## Fair Information Maximization on Social Media<a name="FairIM"></a> 
+-----
 **Research questions**: Users on social media with high visibility are often selected as seeds to spread information and affect their adoption in target groups. Even though female users are more active on social media than male users, males are regarded as influential in various centrality measures.
 
 We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing a disparity-aware seeding algorithms.
