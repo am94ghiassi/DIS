@@ -23,6 +23,11 @@ Our research themes spam in the following areas. We are interested in developing
 We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
  
  [Back to the list](#top)
+ 
+<div style="text-align: right"> <a href="#top">Back to the list</a> </div>
+<a href="#top">
+         <img alt="top" src="./images/top">
+</a>
 
 
 ## Optimization for Machine Learning Services and Clusters<a name="Tune"></a> 
