@@ -38,7 +38,7 @@ We are working on various scheduling and model selection algorithms to adaptivel
 -----
 **Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary.
 
-> We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
+>We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
 ## Federated Learning Systems: Incentive and Backdoor<a name="Federated"></a> 
 -----
