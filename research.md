@@ -26,7 +26,7 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
          <img alt="top"src="./images/top.png"width=40"height="40">
 </a>
                                                                  
-<img src="./images/top.png" alt="top" width=40" height="40">
+<img src="/images/top.png" alt="top" width=40" height="40">
 
 
 ## Optimization for Machine Learning Services and Clusters<a name="Tune"></a> 
