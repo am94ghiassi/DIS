@@ -26,7 +26,7 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
  
 <div style="text-align: right"> <a href="#top">Back to the list</a> </div>
 <a href="#top">
-         <img alt="top" src="./images/top.png">
+         <img alt="top" src="./images/top.png" width=20" height="20">
 </a>
 
 
