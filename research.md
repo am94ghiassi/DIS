@@ -2,6 +2,7 @@
 layout: page
 title: Research
 ---
+{::options parse_block_html="true" /}
 <a name="top"></a> 
 <span style="color:red">**We are still updating the content**</span>
 
