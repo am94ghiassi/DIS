@@ -19,7 +19,8 @@ Our research themes spam in the following areas. We are interested in developing
 
 **Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to dstill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
 
-> We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
+{: .box-note}
+We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
  
  [Back to the list](#top)
 
@@ -28,7 +29,8 @@ Our research themes spam in the following areas. We are interested in developing
 -----
 **Research questions**: Training deep models consumes tremendous computing time and resources; however tuning the hyperparameter of deep models is even multiple fold higher. Can one design efficient and accurate tuning framework for deep neural networks such that the optimal parameters can be found at minimum computational resources?
 
-> We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
+{: .box-note}
+We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
 
 [Back to the list](#top)
 
@@ -45,7 +47,8 @@ We are working on various scheduling and model selection algorithms to adaptivel
 -----
 **Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary.
 
-> We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
+{: .box-note}
+We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
 [Back to the list](#top)
 
@@ -53,7 +56,8 @@ We are working on various scheduling and model selection algorithms to adaptivel
 -----
 **Research questions**: Federated learning framework preserves privacy by design as user data stays on devices. How to provide the incentives for users at the federated learning systems? How to value the contributed models from other users? Can we trust the models provided by other users?
 
-> We are designing incentive mechanisms and defense strategies against backdoor attacks. 
+{: .box-note}
+We are designing incentive mechanisms and defense strategies against backdoor attacks. 
 
 [Back to the list](#top)
 
@@ -61,7 +65,8 @@ We are working on various scheduling and model selection algorithms to adaptivel
 -----
 **Research questions**: Sparse Tucker decomposition is widely used in low-rank representation learning for sparse big data analysis. Due to the entanglement problem  of  core  tensor  and  factor  matrices,  the  computational process  for  STD  faces  the challenge of   intermediate  variables  explosion. How to design an efficient optimization algorithm for STD without degrading approximation accuracy?
 
-> We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.
+{: .box-note}
+We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.
 
 [Back to the list](#top)
 
@@ -69,7 +74,8 @@ We are working on various scheduling and model selection algorithms to adaptivel
 -----
 **Research questions**: Users on social media with high visibility are often selected as seeds to spread information and affect their adoption in target groups. Even though female users are more active on social media than male users, males are regarded as influential in various centrality measures.
 
-> We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing a disparity-aware seeding algorithms.
+{: .box-note}
+We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing a disparity-aware seeding algorithms.
 
 [Back to the list](#top)
 
