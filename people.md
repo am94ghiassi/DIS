@@ -116,9 +116,9 @@ huangjiyue@pku.edu.cn
 
 **Name**|**University**|**Topic**
 :-----|:-----|:-----
-Isabelly Rocha|University of Neuchatel|Resource managment for deep neuralnetworks clusters
+Isabelly Rocha|University of Neuchatel|Resource managment for deep neural networks clusters
 Nathaniel Morris|Ohio State University| Computational sprinting
-Rania Talbi|INSA-Lyong|Attacks on federated learning systems
+Rania Talbi|INSA-Lyon|Attacks on federated learning systems
 
 <br>
 ## Master and Intern Students
@@ -133,5 +133,3 @@ Bart Cox|Master|Efficient multiple DNN inference on edge devices
 Shikhar Deve|Master| multi-fidelity hyper-parameter tuning for machine learning algorithms
 Jeroen Galjaard| Intern| Scheduling algorithms for multiple DNN inferences on edges
 Hans Brower| Intern| Pipetuning hyper- and system parameters for DNN clusters
-
-
