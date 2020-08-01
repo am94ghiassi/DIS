@@ -38,13 +38,13 @@ We are working on various scheduling and model selection algorithms to adaptivel
 -----
 **Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary.
 
-We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
+> We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
 ## Federated Learning Systems: Incentive and Backdoor<a name="Federated"></a> 
 -----
 **Research questions**: Federated learning framework preserves privacy by design as user data stays on devices. How to provide the incentives for users at the federated learning systems? How to value the contributed models from other users? Can we trust the models provided by other users?
 
-We are designing incentive mechanisms and defense strategies against backdoor attacks. 
+> We are designing incentive mechanisms and defense strategies against backdoor attacks. 
 
 ## Tucker Tensor Decomposition (STD)<a name="Tucker"></a> 
 -----
