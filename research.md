@@ -16,7 +16,7 @@ Our research themes spam in the following areas. We are interested in developing
 
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
------
+
 **Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to dstill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
 
  > We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
@@ -30,11 +30,15 @@ Our research themes spam in the following areas. We are interested in developing
 
 > We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
 
+[Back to the list](#top)
+
 ## Deep Model Inferences on Edge Devices<a name="EdgeInf"></a> 
 ----
 **Research questions**: How to choose suitable trained models from the plethoral of existing ones and deploy at the edge devices? How to optimize the performance of deep models on the edge devices? Can today's edge devices efficiently execute multiple DNN at the same time, e,.g., extracting information of people, aged and gender from images?
 
  > We are working on various scheduling and model selection algorithms to adaptively run multiple DNN on resource limited edge devices, in fulfilling various users’ requirements. 
+ 
+ [Back to the list](#top)
 
 ## Synthetic Data Generator<a name="GAN"></a> 
 -----
@@ -42,11 +46,15 @@ Our research themes spam in the following areas. We are interested in developing
 
 > We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
+[Back to the list](#top)
+
 ## Federated Learning Systems: Incentive and Backdoor<a name="Federated"></a> 
 -----
 **Research questions**: Federated learning framework preserves privacy by design as user data stays on devices. How to provide the incentives for users at the federated learning systems? How to value the contributed models from other users? Can we trust the models provided by other users?
 
 > We are designing incentive mechanisms and defense strategies against backdoor attacks. 
+
+[Back to the list](#top)
 
 ## Tucker Tensor Decomposition (STD)<a name="Tucker"></a> 
 -----
@@ -54,10 +62,14 @@ Our research themes spam in the following areas. We are interested in developing
 
 > We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.
 
+[Back to the list](#top)
+
 ## Fair Information Maximization on Social Media<a name="FairIM"></a> 
 -----
 **Research questions**: Users on social media with high visibility are often selected as seeds to spread information and affect their adoption in target groups. Even though female users are more active on social media than male users, males are regarded as influential in various centrality measures.
 
 > We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing a disparity-aware seeding algorithms.
+
+[Back to the list](#top)
 
 
