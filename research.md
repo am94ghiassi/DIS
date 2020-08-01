@@ -34,7 +34,7 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
 {: .box-note}
 We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
 
-[Back to the list](#top)
+
 <a href="#top">
          <img alt="top" src="./images/top.png" width=40" height="40">
 </a>
@@ -47,8 +47,8 @@ We are working on accelerating processing strategies that only execute critical 
 {: .box-note}
 We are working on various scheduling and model selection algorithms to adaptively run multiple DNN on resource limited edge devices, in fulfilling various users’ requirements. 
  
-[Back to the list](#top)
- <a href="#top">
+
+<a href="#top">
          <img alt="top" src="./images/top.png" width=40" height="40">
 </a>
 
