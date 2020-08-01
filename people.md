@@ -110,6 +110,7 @@ huangjiyue@pku.edu.cn
 
 ## Visiting Ph.D students
 ----
+
 **Name**|**University**|**Topic**
 :-----|:-----|:-----
 Isabelly Rocha|University of Neuchatel|Resource managment for deep neuralnetworks clusters
@@ -120,6 +121,7 @@ Rania Talbi|INSA-Lyong|Attacks on federated learning systems
 
 ## Master and Intern Students
 ----
+
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
 Bart Cox|Master|Efficient multiple DNN inference on edge devices
