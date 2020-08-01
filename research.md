@@ -44,10 +44,10 @@ We are working on accelerating processing strategies that only execute critical 
 
 ## Deep Model Inferences on Edge Devices<a name="EdgeInf"></a> 
 ----
-**Research questions**: How to choose suitable trained models from the plethoral of existing ones and deploy at the edge devices? How to optimize the performance of deep models on the edge devices? Can today's edge devices efficiently execute multiple DNN at the same time, e,.g., extracting information of people, aged and gender from images?
+**Research questions**: How to choose suitable trained models from the plethoral of existing ones and deploy at the edge devices? How to optimize the performance of deep models on the edge devices? Can today's edge devices efficiently execute multiple DNNs at the same time, e,.g., extracting information of people, aged and gender from images?
 
 {: .box-note}
-We are working on various scheduling and model selection algorithms to adaptively run multiple DNN on resource limited edge devices, in fulfilling various users’ requirements. 
+We are working on various scheduling and model selection algorithms to adaptively run multiple DNNs on resource limited edge devices, in fulfilling various users’ requirements. 
  
 
 <a href="#top">
