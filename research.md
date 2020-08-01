@@ -50,7 +50,7 @@ We are working on various scheduling and model selection algorithms to adaptivel
 {: .box-note}
 We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
-[Back to the list](#top)
+<div style="text-align: right"> [Back to the list](#top) </div>
 
 ## Federated Learning Systems: Incentive and Backdoor<a name="Federated"></a> 
 -----
