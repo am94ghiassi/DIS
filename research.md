@@ -6,6 +6,7 @@ title: Research
 <span style="color:red">**We are still updating the content**</span>
 
 Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.
+<span style="font-family:Papyrus; font-size:3em;">
 - [Robust and Adversarial Machine Learning](#Robust)
 - [Optimization of Tuning and Training ML Models](#Tune)
 - [Deep Model Inferences on Edge Devices](#EdgeInf)
@@ -13,7 +14,7 @@ Our research themes spam in the following areas. We are interested in developing
 - [Federated Learning Systems](#Federated)
 - [Tucker Tensor Decomposition](#Tucker)
 - [Fair Information Maximization on Social Media](#FairIM)
-
+LOVE!</span>
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
 
