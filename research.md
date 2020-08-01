@@ -5,7 +5,7 @@ title: Research
 
 <span style="color:red">**We are still updating the content**</span>
 
-Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.(#top)
+Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.<a name="top"></a> 
 - [Robust and Adversarial Machine Learning](#Robust)
 - [Optimization of Tuning and Training ML Models](#Tune)
 - [Deep Model Inferences on Edge Devices](#EdgeInf)
