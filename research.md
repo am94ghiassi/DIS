@@ -32,7 +32,7 @@ We are working on accelerating processing strategies that only execute critical 
 
 We are working on various scheduling and model selection algorithms to adaptively run multiple DNN on resource limited edge devices, in fulfilling various users’ requirements. 
 
- ## Synthetic Data Generator<a name="GAN"></a> 
+## Synthetic Data Generator<a name="GAN"></a> 
 **Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary.
 
 We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
