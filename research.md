@@ -19,7 +19,7 @@ Our research themes spam in the following areas. We are interested in developing
 
 **Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to dstill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
 
- > We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
+> We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
  
  [Back to the list](#top)
 
@@ -36,7 +36,7 @@ Our research themes spam in the following areas. We are interested in developing
 ----
 **Research questions**: How to choose suitable trained models from the plethoral of existing ones and deploy at the edge devices? How to optimize the performance of deep models on the edge devices? Can today's edge devices efficiently execute multiple DNN at the same time, e,.g., extracting information of people, aged and gender from images?
 
- > We are working on various scheduling and model selection algorithms to adaptively run multiple DNN on resource limited edge devices, in fulfilling various users’ requirements. 
+> We are working on various scheduling and model selection algorithms to adaptively run multiple DNN on resource limited edge devices, in fulfilling various users’ requirements. 
  
  [Back to the list](#top)
 
