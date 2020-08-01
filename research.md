@@ -23,6 +23,7 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
 
 
 ## Optimization for Machine Learning Services and Clusters<a name="Tune"></a> 
+-----
 **Research questions**: Training deep models consumes tremendous computing time and resources; however tuning the hyperparameter of deep models is even multiple fold higher. Can one design efficient and accurate tuning framework for deep neural networks such that the optimal parameters can be found at minimum computational resources?
 
 We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
