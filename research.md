@@ -23,9 +23,8 @@ Our research themes spam in the following areas. We are interested in developing
 We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
 
 <a href="#top">
-         <img alt="top"src="/images/top.png" width=40" height="40">
+         <img alt="top" src="/images/top.png" width="40" height="40">
 </a>
-<img src="/images/top.png" alt="top" width=40" height="40">
 
 
 
@@ -38,7 +37,7 @@ We are working on accelerating processing strategies that only execute critical 
 
 
 <a href="#top">
-         <img alt="top" src="./images/top.png" width=40" height="40">
+         <img alt="top" src="/images/top.png" width="40" height="40">
 </a>
 
 
@@ -51,7 +50,7 @@ We are working on various scheduling and model selection algorithms to adaptivel
  
 
 <a href="#top">
-         <img alt="top" src="./images/top.png" width=40" height="40">
+         <img alt="top" src="/images/top.png" width="40" height="40">
 </a>
 
 
@@ -63,7 +62,7 @@ We are working on various scheduling and model selection algorithms to adaptivel
 We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
 <a href="#top">
-         <img alt="top" src="./images/top.png" width=40" height="40">
+         <img alt="top" src="/images/top.png" width="40" height="40">
 </a>
 
 
@@ -75,7 +74,7 @@ We are working on various synthetic table generation methods for table and image
 We are designing incentive mechanisms and defense strategies against backdoor attacks. 
 
 <a href="#top">
-         <img alt="top" src="./images/top.png" width=40" height="40">
+         <img alt="top" src="/images/top.png" width="40" height="40">
 </a>
 
 
@@ -87,7 +86,7 @@ We are designing incentive mechanisms and defense strategies against backdoor at
 We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.
 
 <a href="#top">
-         <img alt="top" src="./images/top.png" width=40" height="40">
+         <img alt="top" src="./images/top.png" width="40" height="40">
 </a>
 
 
@@ -99,7 +98,7 @@ We are working on various optimization techniques to accelerate the sparse matri
 We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing a disparity-aware seeding algorithms.
 
 <a href="#top">
-         <img alt="top" src="./images/top.png" width=40" height="40">
+         <img alt="top" src="/images/top.png" width="40" height="40">
 </a>
 
 
