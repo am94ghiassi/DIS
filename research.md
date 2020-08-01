@@ -38,7 +38,7 @@ We are working on accelerating processing strategies that only execute critical 
 
 
 <a href="#top">
-         <img alt="top" src="/images/top.png" width="40" height="40">
+ <img alt="top" src="/images/top.png" width="40" height="40">
 </a>
 
 
