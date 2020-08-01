@@ -118,21 +118,8 @@ Rania Talbi|INSA-Lyong|Attacks on federated learning systems
 
 
 
-
-**Name**|**Master/Intern**|**Thesis/Project**
-:-----|:-----|:-----
-Bart Cox|Master|Efficient multiple DNN inference on edge devices
-Shikhar Deve|Master| multi-fidelity hyper-parameter tuning for machine learning algorithms
-Jeroen Galjaard| Intern| Scheduling algorithms for multiple DNN inferences on edges
-Hans Brower| Intern| Pipetuning hyper- and system parameters for DNN clusters
-
-
-
 ## Master and Intern Students
 ----
-
-
-
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
 Bart Cox|Master|Efficient multiple DNN inference on edge devices
