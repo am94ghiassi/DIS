@@ -111,6 +111,8 @@ huangjiyue@pku.edu.cn
 ## Visiting Ph.D students
 ----
 
+
+
 **Name**|**University**|**Topic**
 :-----|:-----|:-----
 Isabelly Rocha|University of Neuchatel|Resource managment for deep neuralnetworks clusters
@@ -118,9 +120,11 @@ Nathaniel Morris|Ohio State University| Computational sprinting
 Rania Talbi|INSA-Lyong|Attacks on federated learning systems
 
 
-
 ## Master and Intern Students
 ----
+
+
+
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
