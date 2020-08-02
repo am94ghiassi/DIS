@@ -33,7 +33,7 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
 
 <figure>
  <a href="#top">
-  <img src="./images/up.png" alt="top" width="40" height="25">
+  <img src="../images/up.png" alt="top" width="40" height="25">
  </a>
 </figure>
 
