@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Master Thesis and Internship
+cover-img: images/elmtree_2.jpg
 ---
 We are always looking for motivated <span style="color:#ff8700">master students</span> and <span style="color:#ff8700">interns</span> to join our lab and work together with us.
 Do you want to conduct research at the intersection of theory and practice and build state-of-the-art systems? Our lab offers interesting Master thesis and intern projects in a number of active areas of research:
