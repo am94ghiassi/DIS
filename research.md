@@ -23,9 +23,11 @@ Our research themes spam in the following areas. We are interested in developing
 {: .box-note}
 We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
 
-<a href="#top">
-  <img src="/images/top.png" alt="top"  width="40" height="40">
-</a>
+<figure>
+ <a href="#top">
+  <img src="images/up.png" alt="top" style="float: right;" width="40" height="25">
+ </a>
+</figure>
 
 
 
