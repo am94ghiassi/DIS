@@ -40,14 +40,14 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
 {: .box-note}
 We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
 
+
 <figure>
-  <img src="./images/up.png" alt="top" style="float: right;" width="40" height="25">
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
 </figure>
 
-<a href="#top">
- <img alt="top" src="images/up.png" width="40" height="25">
-</a>
-
+<br>
 
 ## Deep Model Inferences on Edge Devices<a name="EdgeInf"></a> 
 ----
@@ -57,10 +57,13 @@ We are working on accelerating processing strategies that only execute critical 
 We are working on various scheduling and model selection algorithms to adaptively run multiple DNNs on resource limited edge devices, in fulfilling various users’ requirements. 
  
 
-<a href="#top">
-         <img alt="top" src="/images/top.png" width="40" height="40">
-</a>
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
 
+<br>
 
 ## Synthetic Data Generator<a name="GAN"></a> 
 -----
@@ -69,9 +72,14 @@ We are working on various scheduling and model selection algorithms to adaptivel
 {: .box-note}
 We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
 
-<a href="#top">
-         <img alt="top" src="/images/top.png" width="40" height="40">
-</a>
+
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
+
+<br>
 
 
 ## Federated Learning Systems: Incentive and Backdoor<a name="Federated"></a> 
@@ -81,10 +89,14 @@ We are working on various synthetic table generation methods for table and image
 {: .box-note}
 We are designing incentive mechanisms and defense strategies against backdoor attacks. 
 
-<a href="#top">
-         <img alt="top" src="/images/top.png" width="40" height="40">
-</a>
 
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
+
+<br>
 
 ## Sparse Tucker Decomposition <a name="Tucker"></a> 
 -----
@@ -93,10 +105,14 @@ We are designing incentive mechanisms and defense strategies against backdoor at
 {: .box-note}
 We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.
 
-<a href="#top">
-         <img alt="top" src="./images/top.png" width="40" height="40">
-</a>
 
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
+
+<br>
 
 ## Fair Information Maximization on Social Media<a name="FairIM"></a> 
 -----
@@ -105,9 +121,13 @@ We are working on various optimization techniques to accelerate the sparse matri
 {: .box-note}
 We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing  disparity-aware seeding algorithms.
 
-<a href="#top">
-         <img alt="top" src="/images/top.png" width="40" height="40">
-</a>
 
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
+
+<br>
 
 
