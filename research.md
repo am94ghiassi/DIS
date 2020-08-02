@@ -79,7 +79,7 @@ We are designing incentive mechanisms and defense strategies against backdoor at
 </a>
 
 
-## Tucker Tensor Decomposition (STD)<a name="Tucker"></a> 
+## Tucker Tensor Decomposition <a name="Tucker"></a> 
 -----
 **Research questions**: Sparse Tucker decomposition is widely used in low-rank representation learning for sparse big data analysis. Due to the entanglement problem  of  core  tensor  and  factor  matrices,  the  computational process  for  STD  faces  the challenge of   intermediate  variables  explosion. How to design an efficient optimization algorithm for STD without degrading approximation accuracy?
 
