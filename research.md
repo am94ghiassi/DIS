@@ -23,8 +23,6 @@ Our research themes spam in the following areas. We are interested in developing
 {: .box-note}
 We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
 
->> We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
-
 
 <figure>
  <a href="#top">
