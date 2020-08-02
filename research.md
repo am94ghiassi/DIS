@@ -40,6 +40,9 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
 {: .box-note}
 We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
 
+<figure>
+  <img src="images/up.png" alt="top" style="float: right;" width="40" height="25">
+</figure>
 
 <a href="#top">
  <img alt="top" src="images/up.png" width="40" height="25">
