@@ -96,7 +96,7 @@ We are working on various optimization techniques to accelerate the sparse matri
 **Research questions**: Users on social media with high visibility are often selected as seeds to spread information and affect their adoption in target groups. Even though female users are more active on social media than male users, males are regarded as influential in various centrality measures.
 
 {: .box-note}
-We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing a disparity-aware seeding algorithms.
+We are trying to answer how gender differences and similarities can impact the information spreading process on social media. We are developing  disparity-aware seeding algorithms.
 
 <a href="#top">
          <img alt="top" src="/images/top.png" width="40" height="40">
