@@ -67,10 +67,10 @@ We are working on various scheduling and model selection algorithms to adaptivel
 
 ## Synthetic Data Generator<a name="GAN"></a> 
 -----
-**Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary.
+**Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary. How to generate synthetic data that fulfilll the requirements of data similarity, analysis utility, privacy and generalization?
 
 {: .box-note}
-We are working on various synthetic table generation methods for table and image data. We are in collaboration with companies in the finance sector. 
+We are working on various synthetic generation methods for table and image data, e.g., generative adversarial networks. We are in collaboration with companies in the finance sector. 
 
 
 <figure>
@@ -87,7 +87,7 @@ We are working on various synthetic table generation methods for table and image
 **Research questions**: Federated learning framework preserves privacy by design as user data stays on devices. How to provide the incentives for users at the federated learning systems? How to value the contributed models from other users? Can we trust the models provided by other users?
 
 {: .box-note}
-We are designing incentive mechanisms and defense strategies against backdoor attacks. 
+We are designing incentive mechanisms and defense strategies against backdoor attacks for the federated learning systems, from Bayesian models to deep neuralnetworks.
 
 
 <figure>
