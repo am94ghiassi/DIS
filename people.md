@@ -108,6 +108,18 @@ huangjiyue@pku.edu.cn
 </td>
 </tr></table>
 
+
+<table>
+<tr>
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hongchi.jpg?raw=true" title="phd" width="100" height="150"/>
+<pre>
+Hong Chi
+hc15@tsinghua.org.cn   
+</pre>
+</td>
+</tr></table>
+
 <br>
 ## Visiting Ph.D students
 
