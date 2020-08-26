@@ -114,7 +114,7 @@ huangjiyue@pku.edu.cn
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hongchi.jpg?raw=true" title="phd" width="100" height="150"/>
 <pre>
-Hong Chi
+Chi Hong
 hc15@tsinghua.org.cn   
 </pre>
 </td>
