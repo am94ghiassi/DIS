@@ -10,9 +10,9 @@ Our research themes spam in the following areas.
 
 - [Robust, private, fair learning](#RPFlearning)
 - [Resourcement managment for deep neural networks clusters](#resource)
-- [Edge learning and inference]((#eLInf)
+- [Edge learning and inference](#eLInf)
 
-# Robust, private, fair learning<a name="RPFlearning"></a> 
+# Robust, Private, Fair Learning<a name="RPFlearning"></a> 
 
 Artificial intelligence (AI) and machine learning (ML) are ubiquitous in our daily lives in the form of search engines, machine translation, self-driving cars and much more. The prevailing assumptions of existing ML algorithms are that data is neutral and can be freely accessed (without breaching privacy). As a result, the existing algorithms fall short of addressing challenges in realistic scenarios, i.e., against adversarial examples, dirty data, and unreliable execution environments while still preserving data privacy. These issues are further exacerbated by large and distributed learning problems, the data for which is collected over multiple sources and must be computed on distributed nodes.
 
@@ -25,7 +25,7 @@ In this line of research, we are designing robust, privacy-preserving and fair l
 
 
 
-# System and data management for deep neural networks clusters<a name="resource"></a> 
+# System and Data Management for Deep Clusters<a name="resource"></a> 
 There is a surging number of deep training/inference jobs, e.g., convolutionary networks to classify images, and the Bert language model to classify text running on cloud datacenters. Such learning jobs form a unique class of workloads that have a large number of tuning parameters and repetitive computation routines in iterations, and they rely on the acceleration of specialized computing units such as GPU. The resulting computational time and energy computation can be daunting. This raises questions about how to design resource management policies for such clusters such that running deep network training/inference jobs is truly accessible, sustainable, and affordable for the public. 
 
 In this line of research, we are seeking novel resource management solutions for such deep neural network clusters ranging from building a systematic understanding of workloads to developing specific scheduling policies to minimize their resource dependency without sacrificing metrics of interest, such as accuracy, at the job level. Thesis topics include:
