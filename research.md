@@ -6,14 +6,56 @@ title: Research
 <a name="top"></a> 
 <span style="color:red">**We are still updating the content**</span>
 
-Our research themes spam in the following areas. We are interested in developing novel algorithms and efficient computational solutions for challenging research questions.
-- [Robust and Adversarial Machine Learning](#Robust)
-- [Optimization of Tuning and Training ML Models](#Tune)
-- [Deep Model Inferences on Edge Devices](#EdgeInf)
-- [Synthetic Data Generation](#GAN)
-- [Federated Learning Systems](#Federated)
-- [Tucker Tensor Decomposition](#Tucker)
-- [Fair Information Maximization on Social Media](#FairIM)
+Our research themes spam in the following areas. 
+
+- [Robust, private, fair learning](#RPFlearning)
+- [Resourcement managment for deep neural networks clusters](#resource)
+- [Edge learning and inference]((#eLInf)
+
+# Robust, private, fair learning<a name="RPFlearning"></a> 
+
+Artificial intelligence (AI) and machine learning (ML) are ubiquitous in our daily lives in the form of search engines, machine translation, self-driving cars and much more. The prevailing assumptions of existing ML algorithms are that data is neutral and can be freely accessed (without breaching privacy). As a result, the existing algorithms fall short of addressing challenges in realistic scenarios, i.e., against adversarial examples, dirty data, and unreliable execution environments while still preserving data privacy. These issues are further exacerbated by large and distributed learning problems, the data for which is collected over multiple sources and must be computed on distributed nodes.
+
+In this line of research, we are designing robust, privacy-preserving and fair learning algorithms. Thesis topics include:
+-[Robust and Adversarial Machine Learning](#Robust)
+-[Synthetic Data Generation](#GAN)
+-[Fair Information Maximization on Social Media](#FairIM) designing learning algorithms that can be debiased, for example in terms of gender or race, via data selection and objective modification of learning algorithms.
+-	Adversarial learning: designing adversarial attacks and defense mechanisms for deep models.
+-	Differential private (deep) learning: designing effective differential private ML models with precise accuracy accounting.
+
+
+
+# System and data management for deep neural networks clusters<a name="resource"></a> 
+There is a surging number of deep training/inference jobs, e.g., convolutionary networks to classify images, and the Bert language model to classify text running on cloud datacenters. Such learning jobs form a unique class of workloads that have a large number of tuning parameters and repetitive computation routines in iterations, and they rely on the acceleration of specialized computing units such as GPU. The resulting computational time and energy computation can be daunting. This raises questions about how to design resource management policies for such clusters such that running deep network training/inference jobs is truly accessible, sustainable, and affordable for the public. 
+
+In this line of research, we are seeking novel resource management solutions for such deep neural network clusters ranging from building a systematic understanding of workloads to developing specific scheduling policies to minimize their resource dependency without sacrificing metrics of interest, such as accuracy, at the job level. Thesis topics include:
+-	[Hyperparameter and system tuning](#Tune): jointly tuning network hyperparameters, mini-batch sizes, and system parameters such as parallel threads.
+- [Tucker Tensor Decomposition](#Tucker): learning 
+-	Workload characterization: mapping the resource demands of computation routines and identifying resource bottlenecks for different classes of neural networks.
+-	SlimML: exploring different data subsampling strategies to search for an optimal tradeoff between learning accuracy and resource efficiency.
+
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
+
+# Edge learning and inference<a name="eLInf"></a> 
+Data is constantly generated and collected by edge devices (of the network) to power up today’s AI and ML analyses. With the advancement of algorithmic compression techniques and hardware technology, the ability to train neural networks and run inference on edge devices has gone from myth to reality. Federated learning (FL) is an emerging learning paradigm where distributed edge nodes collaboratively learn the weights of neural networks iteratively without directly sharing data. It is largely unexplored how existing deep learning algorithms can be realized within a FL framework, thereby overcoming network communications and adversarial threats. Moreover, owing to the vast number of available trained models and highly heterogeneous mobile devices, it is no mean feat to identify and deploy the right model for individual edge devices.
+
+In this line of research, we are designing learning algorithms and prototyping system solutions for ML training and inference on distributed edge devices. Thesis topics include:
+-[Federated Learning Systems](#Federated): designing efficient communication protocols and incentive mechanisms for edge learners.
+-[Deep Model Inferences on Edge Devices](#EdgeInf): designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
+-	Secure edge learning and inference: developing prototypes to leverage trusted execution environments and differential privacy for securing edge devices from adversaries. 
+
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
+
+
+
 
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
