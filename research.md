@@ -44,8 +44,8 @@ In this line of research, we are seeking novel resource management solutions for
 Data is constantly generated and collected by edge devices (of the network) to power up today’s AI and ML analyses. With the advancement of algorithmic compression techniques and hardware technology, the ability to train neural networks and run inference on edge devices has gone from myth to reality. Federated learning (FL) is an emerging learning paradigm where distributed edge nodes collaboratively learn the weights of neural networks iteratively without directly sharing data. It is largely unexplored how existing deep learning algorithms can be realized within a FL framework, thereby overcoming network communications and adversarial threats. Moreover, owing to the vast number of available trained models and highly heterogeneous mobile devices, it is no mean feat to identify and deploy the right model for individual edge devices.
 
 In this line of research, we are designing learning algorithms and prototyping system solutions for ML training and inference on distributed edge devices. Thesis topics include:
--[Federated Learning Systems](#Federated): designing efficient communication protocols and incentive mechanisms for edge learners.
--[Deep Model Inferences on Edge Devices](#EdgeInf): designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
+- [Federated Learning Systems](#Federated): designing efficient communication protocols and incentive mechanisms for edge learners.
+- [Deep Model Inferences on Edge Devices](#EdgeInf): designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
 -	Secure edge learning and inference: developing prototypes to leverage trusted execution environments and differential privacy for securing edge devices from adversaries. 
 
 <figure>
