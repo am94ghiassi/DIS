@@ -23,6 +23,11 @@ In this line of research, we are designing robust, privacy-preserving and fair l
 -	Adversarial learning: designing adversarial attacks and defense mechanisms for deep models.
 -	Differential private (deep) learning: designing effective differential private ML models with precise accuracy accounting.
 
+<figure>
+ <a href="#top">
+  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+ </a>
+</figure>
 
 
 # System and Data Management for Deep Clusters<a name="resource"></a> 
