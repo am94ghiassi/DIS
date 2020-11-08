@@ -103,7 +103,7 @@ H.Li-9@tudelft.nl
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="150"/>
 <pre>
 Jiyue Huang
-huangjiyue@pku.edu.cn
+J.Huang-4@tudelft.nl
 </pre>
 </td>
 </tr></table>
@@ -115,7 +115,7 @@ huangjiyue@pku.edu.cn
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hongchi.jpg?raw=true" title="phd" width="100" height="150"/>
 <pre>
 Chi Hong
-hc15@tsinghua.org.cn   
+C.Hong@tudelft.nl  
 </pre>
 </td>
 </tr></table>
@@ -141,7 +141,10 @@ Rania Talbi|INSA-Lyon|Attacks on federated learning systems
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
+Aditiya Kuner|Master|GAN-based synthetic tabular data generator
+Zhiyue Zhang|Master| Disparity seeding for maximizing information spread on social networks
 Bart Cox|Master|Efficient multiple DNNs inference on edge devices
 Shikhar Deve|Master| Multi-fidelity hyper-parameter tuning for machine learning algorithms
+Victor Wernet| Intern| Distributed generative adversarial neuralnetworks
 Jeroen Galjaard| Intern| Scheduling algorithms for multiple DNNs inference on edges
 Hans Brower| Intern| Pipetuning hyper- and system parameters for DNN clusters
