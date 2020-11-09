@@ -2,7 +2,7 @@
 layout: page
 title: Join us
 
-We looking for motivated [Postdoc](https://github.com/Team-TUD/DIS/blob/master/docs/Postdoc_TUDelft_20.pdf) in the broad area of machine leearning systems.
+We looking for motivated [Postdoc](docs/Postdoc_TUDelft_20.pdf) in the broad area of machine leearning systems.
 
 
 <a href="docs/Postdoc_TUDelft_20.pdf" download="Postdoc_TUDelft_20.pdf">Download Your Report</a>
