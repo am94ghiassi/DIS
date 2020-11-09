@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Join us
+---
 
 We looking for motivated [Postdoc](docs/Postdoc_TUDelft_20.pdf) in the broad area of machine leearning systems.
 
