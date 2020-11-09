@@ -4,6 +4,9 @@ title: Join us
 
 We looking for motivated [Postdoc](docs/Postdoc_TUDelft_20.pdf) in the broad area of machine leearning systems.
 
+some text and [here is possible to download the file in PDF][1]
+
+[1]:docs/Postdoc_TUDelft_20.pdf
 
 <a href="docs/Postdoc_TUDelft_20.pdf" download="Postdoc_TUDelft_20.pdf">Download Your Report</a>
 
