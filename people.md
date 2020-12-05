@@ -141,10 +141,10 @@ Rania Talbi|INSA-Lyon|Attacks on federated learning systems
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
-Aditiya Kuner|Master|GAN-based synthetic tabular data generator
-Zhiyue Zhang|Master| Disparity seeding for maximizing information spread on social networks
-Bart Cox|Master|Efficient multiple DNNs inference on edge devices
-Shikhar Deve|Master| Multi-fidelity hyper-parameter tuning for machine learning algorithms
-Victor Wernet| Intern| Distributed generative adversarial neuralnetworks
-Jeroen Galjaard| Intern| Scheduling algorithms for multiple DNNs inference on edges
-Hans Brower| Intern| Pipetuning hyper- and system parameters for DNN clusters
+Aditiya Kuner|Master 21|GAN-based synthetic tabular data generator
+Zhiyue Zhang|Master 21| Disparity seeding for maximizing information spread on social networks
+Bart Cox|Master 20|Efficient multiple DNNs inference on edge devices
+Shikhar Deve|Master 20| Multi-fidelity hyper-parameter tuning for machine learning algorithms
+Victor Wernet| Intern 20| Distributed generative adversarial neuralnetworks
+Jeroen Galjaard| Intern 20| Scheduling algorithms for multiple DNNs inference on edges
+Hans Brower| Intern 20| Pipetuning hyper- and system parameters for DNN clusters
